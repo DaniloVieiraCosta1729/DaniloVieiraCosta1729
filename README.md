@@ -10,11 +10,19 @@
  </h3
 </div>
 <div>  
-  <h3 align="left"> Danilo Vieira Costa </h3>
+  <h1 align="left"> Danilo Vieira Costa </h1>
+  <h3>Objetivo</h3>
   <p>
     Meu maior objetivo é se tornar um desenvolver de sistemas embarcados nos próximos anos. Como consequência desse objetivo, atualizarei essa conta no github com novos repositórios contendo projetos e estudos relacionados com a área como: programação em C; arquitetura de processadores; estrutura de dados e algoritmos; controle; eletrônica; protocolos de comunicação etc. 
 Vai ser um caminho longo, mas o primeiro passo está em progresso...
   </p>
   <!--<img align="left" src="https://profile-counter.glitch.me/DaniloVieiraCosta1729/count.svg">-->
+  <h3>Experiência</h3>
+  <p>
+  Não tenho experiência profissional. A experiência mais próxima que tive do desenvolvimento de um produto vendível foi durante a faculdade. 
+  Eu estava aprendendo python na internet e, antes mesmo se aprender sobre OOP, quis aplicar o conhecimento que havia aprendido em um projeto relacionado aos assuntos vistos na faculdade (engenharia mecânica) e, como resultado, criei um programa que dimensionava uma linha de distribuição de ar comprimido. O código desse programa desrespeita todas e quaisqueres orientações de boas práticas de programação imagináveis. Infelizmente perdi o código desse programa, mas tenho um vídeo no youtube mostrando o código e o programa funcionando.
+![image](https://github.com/user-attachments/assets/457312df-39c8-4211-85ed-3843ca978895)
+https://www.youtube.com/watch?v=mlAGyW4c5-E
+  </p>
 </div> 
 <br> 
