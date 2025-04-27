@@ -13,7 +13,7 @@
     <img height="200" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloVieiraCosta1729&layout=compact&langs_count=7&theme=dark"/>
   </p>
   <p>
-    Meu maior objetivo é se tornar um desenvolver de sistemas embarcados nos próximos anos. Como consequência desse objetivo, atualizarei essa conta no github com novos repositórios contendo projetos e estudos relacionados com a área como: programação em C; arquitetura de processadores; estrutura de dados e algoritmos; controle; eletrônica; protocolos de comunicação etc. 
+    Meu maior objetivo é se tornar um desenvolver de sistemas embarcados nos próximos anos. Como consequência desse objetivo, atualizarei essa conta no github com novos repositórios contendo projetos e estudos relacionados com a área como: programação em C; estrutura de dados e algoritmos; controle; eletrônica; protocolos de comunicação etc. 
 Vai ser um caminho longo, mas o primeiro passo está em progresso...
   </p>
   <!--<img align="left" src="https://profile-counter.glitch.me/DaniloVieiraCosta1729/count.svg">-->
