@@ -13,14 +13,16 @@
    <img height="200" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloVieiraCosta1729&layout=compact&langs_count=7&theme="red"/>
   </p>
   <p>
-    Meu maior objetivo é se tornar um desenvolver de sistemas embarcados nos próximos anos. Como consequência desse objetivo, atualizarei essa conta no github com novos repositórios contendo projetos e estudos relacionados com a área como: programação em C; estrutura de dados e algoritmos; controle; eletrônica; protocolos de comunicação etc. 
-Vai ser um caminho longo, mas o primeiro passo está em progresso...
+&nbsp;&nbsp;&nbsp;&nbsp;Meu objetivo com a programação, nesse momento, é simplesmente explorar os tópicos que me interessam pessoalmente. Atualmente eu estou construindo uma base em computação, estudando algoritmos, estrutura de dados, C, Assembly e arquitetura e organização de computadores. Os códigos e PDFs gerandos durante os estuda são, quase todos, colocados aqui no github. 
+&nbsp;&nbsp;&nbsp;&nbsp;Após terminar esses assuntos seguirei para o estudo e criação de projetos em networking, geometria computacional, compiladores, computação gráfica e game engines. Acho que isso vai ser o suficiente para sacear o meu interesse na área. Após isso, pretendo ir para o caminho profissional padrão, i.e., web development com foco em backend, ou algo mais próximo dos estudos que fiz, como embarcados ou engines. 
+Mas falar é fácil. Se eu realmente concluir isso, eu mudo essa descrição e coloco algo que um profissional de verdade colocaria. Espero concluir muitos projetos sérios aqui, não apenas repositórios com exercícios. 
+
   </p>
   <!--<img align="left" src="https://profile-counter.glitch.me/DaniloVieiraCosta1729/count.svg">-->
   <h3>Experiência</h3>
   <p>
   Não tenho experiência profissional. A experiência mais próxima que tive do desenvolvimento de um produto vendível foi durante a faculdade. 
-  Eu estava aprendendo python na internet e, antes mesmo se aprender sobre OOP, quis aplicar o conhecimento que havia aprendido em um projeto relacionado aos assuntos vistos na faculdade (engenharia mecânica) e, como resultado, criei um programa que dimensionava uma linha de distribuição de ar comprimido. O código desse programa desrespeita todas e quaisqueres orientações de boas práticas de programação imagináveis. Infelizmente perdi o código desse programa, mas tenho um vídeo no youtube mostrando o código e o programa funcionando.
+  Eu estava aprendendo python na internet e, antes mesmo se aprender sobre OOP, quis aplicar o conhecimento que havia aprendido em um projeto relacionado aos assuntos vistos na faculdade (engenharia mecânica) e, como resultado, criei um programa que dimensionava uma linha de distribuição de ar comprimido. O código desse programa desrespeita, não só as orientações ensinadas em OOP, mas sim todas e quaisqueres orientações de boas práticas de programação imagináveis. Infelizmente perdi o código desse programa, mas tenho um vídeo no youtube mostrando o código e o programa funcionando.
 
 https://www.youtube.com/watch?v=mlAGyW4c5-E
   </p>
