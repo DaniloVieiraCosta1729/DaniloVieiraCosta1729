@@ -10,7 +10,7 @@
   <h1 align="left"> Danilo Vieira Costa </h1>
   <h3>Objetivo</h3>
    <p align="center">
-   <img height="200" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloVieiraCosta1729&layout=compact&langs_count=7&theme="red"/>
+   <img height="200" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloVieiraCosta1729&layout=compact&langs_count=7&theme="white"/>
   </p>
   <p>
 &nbsp;&nbsp;&nbsp;&nbsp;Meu objetivo com a programação, nesse momento, é simplesmente explorar os tópicos que me interessam pessoalmente. Atualmente, estou construindo uma base em computação, estudando algoritmos, estrutura de dados, C, Assembly e arquitetura e organização de computadores. Os códigos e PDFs gerados durante os estudos são, quase todos, colocados aqui no github. <br> 
