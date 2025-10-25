@@ -16,7 +16,7 @@
 
   </p>
   <p align="center">
-   <img height="200" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloVieiraCosta1729&layout=donut&langs_count=8&theme=dark"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloVieiraCosta1729&layout=donut&langs_count=8&theme=dark"/>
   </p>
   <!--<img align="left" src="https://profile-counter.glitch.me/DaniloVieiraCosta1729/count.svg">-->
   <h3>Experiência</h3>
