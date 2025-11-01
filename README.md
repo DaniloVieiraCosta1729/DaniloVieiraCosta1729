@@ -15,7 +15,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;Após terminar esses assuntos, seguirei para o estudo e criação de projetos em networking, geometria computacional, compiladores, computação gráfica e game engines. Acho que isso vai ser o suficiente para saciar o meu interesse na área. Após isso, pretendo ir para o caminho profissional padrão, i.e., web development com foco em backend, ou algo mais próximo dos estudos que fiz, como embarcados ou engines. Mas falar é fácil. Se eu concluir isso mesmo, eu mudo essa descrição e coloco algo que um profissional de verdade colocaria. Espero concluir muitos projetos sérios aqui, não apenas repositórios com exercícios.
 
   </p>
-  <!--<img align="left" src="https://profile-counter.glitch.me/DaniloVieiraCosta1729/count.svg">--><img align="left" src="https://profile-counter.glitch.me/DaniloVieiraCosta1729/count.svg">
+  <!--<img align="left" src="https://profile-counter.glitch.me/DaniloVieiraCosta1729/count.svg">-->
   <h3>Experiência</h3>
   <p>
   &nbsp;&nbsp;&nbsp;&nbsp;Não tenho experiência profissional. A experiência mais próxima que tive do desenvolvimento de um produto vendível foi durante a faculdade. <br>
