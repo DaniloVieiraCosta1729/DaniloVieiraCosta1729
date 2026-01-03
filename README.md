@@ -21,7 +21,7 @@ https://www.youtube.com/watch?v=mlAGyW4c5-E
   </p>
   <p><img height="600" align="center" src="https://github.com/user-attachments/assets/457312df-39c8-4211-85ed-3843ca978895"></p>
   <p>
-    ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloVieiraCosta1729&layout=compact&theme=dracula)
+    <img height="200" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloVieiraCosta1729&layout=compact&langs_count=8&theme=onedark"/>
   </p>
 </div> 
 <br> 
