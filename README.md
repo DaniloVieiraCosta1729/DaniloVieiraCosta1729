@@ -12,7 +12,7 @@
 
   </p>
   <!--<img align="left" src="https://profile-counter.glitch.me/DaniloVieiraCosta1729/count.svg">-->
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?DaniloVieiraCosta1729=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloVieiraCosta1729&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   <h3>Experiência</h3>
   <p>
   &nbsp;&nbsp;&nbsp;&nbsp;Não tenho experiência profissional. A experiência mais próxima que tive do desenvolvimento de um produto vendível foi durante a faculdade. <br>
