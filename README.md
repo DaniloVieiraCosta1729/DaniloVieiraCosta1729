@@ -32,7 +32,7 @@
 
   <div align="right">
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloVieiraCosta1729&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+   ![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api/top-langs?username=DaniloVieiraCosta1729)
 
   </div>
 
