@@ -1,26 +1,62 @@
-<div>
-  <a href="https://github.com/DaniloVieiraCosta1729">
-  
-</div>
-
 <div>  
-  <h1 align="left"> Danilo Vieira Costa </h1>
-  <h3>Objetivo</h3>
-  <p>
-&nbsp;&nbsp;&nbsp;&nbsp;Meu objetivo com a programação, nesse momento, é simplesmente explorar os tópicos que me interessam pessoalmente. Atualmente, estou construindo uma base em computação, estudando algoritmos, estrutura de dados, C, Assembly e arquitetura e organização de computadores. Os códigos e PDFs gerados durante os estudos são, quase todos, colocados aqui no github. <br> 
-&nbsp;&nbsp;&nbsp;&nbsp;Após terminar esses assuntos, seguirei para o estudo e criação de projetos em networking, geometria computacional, compiladores, computação gráfica e game engines. Acho que isso vai ser o suficiente para saciar o meu interesse na área. Após isso, pretendo ir para o caminho profissional padrão, i.e., web development com foco em backend, ou algo mais próximo dos estudos que fiz, como embarcados ou engines. Mas falar é fácil. Se eu concluir isso mesmo, eu mudo essa descrição e coloco algo que um profissional de verdade colocaria. Espero concluir muitos projetos sérios aqui, não apenas repositórios com exercícios.
+  <h1 align="center"> Danilo Vieira Costa </h1>
 
-  </p>
-  <!--<img align="left" src="https://profile-counter.glitch.me/DaniloVieiraCosta1729/count.svg">-->
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloVieiraCosta1729&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-  <h3>Experiência</h3>
+  ## Sobre mim
   <p>
-  &nbsp;&nbsp;&nbsp;&nbsp;Não tenho experiência profissional. A experiência mais próxima que tive do desenvolvimento de um produto vendível foi durante a faculdade. <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;Eu estava aprendendo python na internet e, antes mesmo de aprender sobre OOP, quis aplicar o conhecimento que havia aprendido em um projeto relacionado aos assuntos vistos na faculdade (engenharia mecânica) e, como resultado, criei um programa que dimensionava uma linha de distribuição de ar comprimido. O código desse programa desrespeita não só as orientações ensinadas em OOP, mas sim todas e quaisquer orientações de boas práticas de programação imagináveis. Infelizmente, perdi o código desse programa, mas tenho um vídeo no youtube mostrando o código e o programa funcionando.
-
-https://www.youtube.com/watch?v=mlAGyW4c5-E
+    Sou formado em engenharia mecânica, mas busco migrar para o desenvolvimento back-end de aplicações web. Tenho muita curiosidade por ciência/engenharia da computação e esse curiosidade me levou, e ainda me leva, a estudar os fundamentos da área, sendo isso algo que eu acredito estar fortalecendo a minha habilidade de solução de problemas, independentemente da "stack" de desenvolvimento.
   </p>
-  <p><img height="600" align="center" src="https://github.com/user-attachments/assets/457312df-39c8-4211-85ed-3843ca978895"></p>
+
+  ## Interesses
+  Estou agora em busca de aprender as tecnologias de desenvolvimento web como **.NET** para projetos grandes e que exijam um alto grau de segurança e **Node** e **Python** para projetos menores como Restful APIs e automações de tarefas. 
+
+  No último ano explorei bastante a área de sistemas, tendo criado mini-projetos pessoais com as linguagens **C**, **Assembly x86-64**, **C++**. 
+  Entre os mini-projetos estão:
+
+  - Um **event-system** em C, usando ponteiros e queues para criar a lógica de inscrição (não cheguei a implementar eventos de mais baixo nível, mas pretendo aprender a capturar eventos gerados por hardware interrupt, como eventos de mouse e teclado); 
+  - Uma **single page** application com back-end em C e front-end com **Javascript**, **CSS**, **HTML**, usando **SQLite** para registrar contas (usei o ngrok inicialmente para deixá-lo online e atualmente consigo disponibilizá-lo com o tunelamento da cloudflare também); 
+  - Um aplicativo usando o padrão de projeto **ECS** com archetypes em C++, sendo esse um projeto que consiste de um parser e um módulo com SFML que renderiza circulos e retângulos em uma janela, com velocidades, posições etc. definidos por um arquivo .txt.
+  - Uma Web API que recebe um JSON com um endereço e retorna um JSON com o endereço recebido e uma versão do mesmo endereço, mas sanitizado. O sanitizador foi feito em Assembly e o back-end em C, tendo o back-end uma evolução em comparação ao projeto da single page, pois usa **select** para multiplexação de I/O, enquato a single page apenas travata uma requisição por vez. (**Select** ainda é péssimo, mas estou aprendendo **epoll** para o próximo projeto, o que deve me ajudar a atingir uma performance e escalabilidade equiparáveis ao de frameworks profissionais).
   
+
+  <!--<img align="left" src="https://profile-counter.glitch.me/DaniloVieiraCosta1729/count.svg">-->
+  <div align="right">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloVieiraCosta1729&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  </div>
+
+  ## Experiência
+  Eu nunca trabalhei com programação mas no meu trabalho atual, auxíliar técnico de impressão 3D, tive algumas experiências com programação tendo, por exemplo, modificado o firmware marlin para a aceitar uma mesa de impressão maior, bem como adição de campos no menu para funções de pre-aquecer da impressora. Além disso, fui apresentado ao **n8n** que é um event-driven software capaz de coordenar milhares de APIs para resolver problemas de automação. Com o n8n e o Cloudflare, eu fui capaz de criar um chatbot para responder à um chat no telegram. Olhando a documentação do Gemini, acredito que eu seja capaz de criar um chatbot sem usar n8n como intermediário, sendo isso algo que vou implementar em um projeto pessoal que ainda estou desenvolvendo.
+
+  ## Projetos Citados
+
+  #### ECS com C++ e Render com SFML
+  <img width="1433" height="678" alt="Captura de tela 2026-02-28 192755" src="https://github.com/user-attachments/assets/eb3af2b1-50f1-41fc-94a0-4cba3178f166" />
+
+  video: https://youtu.be/0PSzIIVQjks
+  
+  link: https://github.com/DaniloVieiraCosta1729/COMP_4300_GAME_PROGRAMMING_CPP/tree/main/lec05/Improving_assessment1
+
+  #### Single Page Application in C, SQLite, JS, HTML e CSS
+  <img width="1368" height="909" alt="Captura de tela 2026-02-21 211521" src="https://github.com/user-attachments/assets/9f7794ab-ee4b-493f-beac-891670b72e0a" />
+
+
+  video: https://youtu.be/2013QoGVMKA
+  
+  link: https://github.com/DaniloVieiraCosta1729/NASM/tree/main/ex_guanabara_assembly/Ex07_EasyMode
+
+  #### API para sanitização de texto
+  <img width="889" height="655" alt="image" src="https://github.com/user-attachments/assets/c95ae801-d6df-4895-b18a-29af94034c24" />
+
+  video: https://youtu.be/hhfp7_hMmAI
+
+  link: https://github.com/DaniloVieiraCosta1729/test_dev_C
+
+  #### Event-System com ponteiros e filas
+  <img width="838" height="763" alt="image" src="https://github.com/user-attachments/assets/7300cf5c-776a-4420-8f36-52f15a3d4ad9" />
+
+  video: https://youtu.be/5pluUy8Yf6E
+
+  link: https://github.com/DaniloVieiraCosta1729/C-language/tree/master/Exploration/Events
+
 </div> 
 <br> 
+
