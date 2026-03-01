@@ -13,7 +13,7 @@
 
   ## Interesses
 
-  Estou agora em busca de aprender as tecnologias de desenvolvimento web. NET para projetos grandes e que exijam um alto grau de segurança e Node e Python para projetos menores, como Restful APIs e automações de tarefas. 
+  Estou agora em busca de aprender as tecnologias de desenvolvimento web .NET para projetos grandes e que exijam um alto grau de segurança e Node e Python para projetos menores, como Restful APIs e automações de tarefas. 
 
   No último ano, explorei bastante a área de sistemas, tendo criado mini-projetos pessoais com as linguagens C, Assembly x86-64, C++. 
 
