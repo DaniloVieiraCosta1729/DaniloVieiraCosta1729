@@ -4,11 +4,12 @@
 
   ## Sobre mim
 
-  <p>
-
-  Sou formado em engenharia mecânica, mas busco migrar para o desenvolvimento back-end de aplicações web. Tenho muita curiosidade por ciência/engenharia da computação e essa curiosidade me levou, e ainda me leva, a estudar os fundamentos da área, sendo isso algo que eu acredito estar fortalecendo a minha habilidade de solução de problemas, independentemente da "stack" de desenvolvimento.
-
-  </p>
+<div >
+  <div>
+ <img align="right" style="float: right; margin: 10px;" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=DaniloVieiraCosta1729&layout=compact&theme=radical" />   
+<p>Sou formado em engenharia mecânica, mas busco migrar para o desenvolvimento back-end de aplicações web. Tenho muita curiosidade por ciência/engenharia da computação e essa curiosidade me levou, e ainda me leva, a estudar os fundamentos da área, sendo isso algo que eu acredito estar fortalecendo a minha habilidade de solução de problemas, independentemente da "stack" de desenvolvimento. </p>
+  
+</div>
 
   ## Interesses
 
@@ -25,16 +26,6 @@
   - Um aplicativo usando o padrão de projeto ECS com archetypes em C++, sendo esse um projeto que consiste de um parser e um módulo com SFML que renderiza círculos e retângulos em uma janela, com velocidades, posições etc. definidos por um arquivo .txt.
 
   - Uma Web API que recebe um JSON com um endereço e retorna um JSON com o endereço recebido e uma versão do mesmo endereço, mas sanitizado. O sanitizador foi feito em Assembly e o back-end em C, tendo o back-end uma evolução em comparação ao projeto da single page, pois usa select para multiplexação de I/O, enquanto a single page apenas tratava uma requisição por vez. (**Select** ainda é péssimo, mas estou aprendendo epoll para o próximo projeto, o que deve me ajudar a atingir uma performance e escalabilidade equiparáveis à de frameworks profissionais).
-
-  
-
-  <!--<img align="left" src="https://profile-counter.glitch.me/DaniloVieiraCosta1729/count.svg">-->
-
-  <div align="right">
-
-   ![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api/top-langs?username=DaniloVieiraCosta1729)
-
-  </div>
 
   ## Experiência
 
